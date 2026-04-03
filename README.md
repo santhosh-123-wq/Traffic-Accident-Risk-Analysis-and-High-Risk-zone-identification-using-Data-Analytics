@@ -10,10 +10,32 @@ Business Objectives:
 The primary business objective of this analysis is to understand how traffic conditions, road infrastructure, and environmental factors contribute to accident risks, enabling the City Traffic Department to:
 
 - Improve road safety by identifying high-risk zones
+
 - Reduce the number of accidents at intersections and highways
+
 - Enhance traffic signal optimization and road condition monitoring
+
 - Support data-driven decision-making for traffic management
+
 - Enable proactive accident prevention strategies
+
+Project Workflow:
+
+Handled missing values, duplicates and inconsistent entries
+
+Standardized data formats, type casted the data, transformed the data for analysis
+
+Saved the Cleaned and Transformed data in CSV for further analysis
+
+Exploratory data analysis (EDA)
+
+Stored and managed the data in SQL
+
+Identified Accident trends
+
+Visualization (Power BI)
+
+Created report showing Accident patterns
 
 Insights:
 
